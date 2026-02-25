@@ -5,14 +5,6 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## Demo
-
-[Live Demo on Netlify](#) <!-- Replace # with your live Netlify link -->
-
-![Color Flipper Screenshot](./screenshot.png) <!-- Optional screenshot in repo -->
-
----
-
 ## Features
 
 - Change background color to **Red**, **Green**, or **Blue**
